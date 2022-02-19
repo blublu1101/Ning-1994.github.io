@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - blublu</title>
+        <link>https://Ning-1994.github.io/posts/</link>
+        <description>所有文章 | blublu</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1107406835@qq.com (blublu)</managingEditor>
+            <webMaster>1107406835@qq.com (blublu)</webMaster><lastBuildDate>Sat, 19 Feb 2022 21:38:31 &#43;0800</lastBuildDate><atom:link href="https://Ning-1994.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://Ning-1994.github.io/first_post/</link>
+    <pubDate>Sat, 19 Feb 2022 21:38:31 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://Ning-1994.github.io/first_post/</guid>
+    <description><![CDATA[111 ]]></description>
+</item></channel>
+</rss>
