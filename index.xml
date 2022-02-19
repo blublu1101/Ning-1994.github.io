@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>blublu</title>
-        <link>https://Ning-1994.github.io/</link>
+        <link>https://blublu1101.github.io/Ning-1994.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1107406835@qq.com (blublu)</managingEditor>
             <webMaster>1107406835@qq.com (blublu)</webMaster><lastBuildDate>Sat, 19 Feb 2022 21:38:31 &#43;0800</lastBuildDate>
-            <atom:link href="https://Ning-1994.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://blublu1101.github.io/Ning-1994.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First_post</title>
-    <link>https://Ning-1994.github.io/first_post/</link>
+    <link>https://blublu1101.github.io/Ning-1994.github.io/first_post/</link>
     <pubDate>Sat, 19 Feb 2022 21:38:31 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://Ning-1994.github.io/first_post/</guid>
+    <guid>https://blublu1101.github.io/Ning-1994.github.io/first_post/</guid>
     <description><![CDATA[111 ]]></description>
 </item></channel>
 </rss>
